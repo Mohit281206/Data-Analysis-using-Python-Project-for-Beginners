@@ -1,2 +1,4 @@
-# Data-Analysis-using-Python-Project-for-Beginners
-Data Analysis using Python Project for Beginners: Performed exploratory data analysis on Diwali sales data using Python to improve the customer experience.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
